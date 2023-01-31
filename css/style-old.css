@@ -1,0 +1,2749 @@
+*{
+
+	margin: 0px;
+	padding: 0px;
+}
+
+.contenedor_principal_ymyr {
+    width: 100%;
+    display: table;
+    background-image: url('https://www.eltiempo.com/infografias/2020/12/yo_mayor/img/fondo_apertura.png');
+    padding: 90px 0px 0px 0px;
+    box-sizing: border-box;
+}
+
+.contenedor_header_ymyr {
+    width: 983px;
+    display: table;
+    margin: auto;
+    position: relative;
+    z-index: 80;
+}
+
+
+.contenedor_redes_sociales_ymyr {
+    width: 106px;
+    height: auto;
+    margin-top: 208px;
+    margin-left: 132px;
+}
+.iconos_rerds_ltsx {
+    width: 15px;
+    margin-left: 26px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.iconos_rerds_ltsx:hover{
+
+    transform: scale(1.5);
+}
+
+.contenidor_texto_ymyr {
+    width: 282px;
+    display: table;
+    position: absolute;
+    top: 67px;
+    right: 69px;
+}
+
+.margen_facebook_ltsx{
+
+	margin-left: 0px;
+}
+
+.imagen_aperura_ymyr {
+    width: 800px;
+    float: left;
+    margin-left: 16px;
+}
+
+.texto_apertura_ymyr {
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #4A4949;
+    line-height: 30px;
+    margin-left: 0;
+    text-align: left;
+    width: 298px;
+    margin-top: 2px;
+}
+
+.linea_de_redes_ltsxa {
+    width: 100%;
+    height: 2px;
+    background-color: #525252;
+    margin-bottom: 12px;
+}
+
+.contenedor_titulo_apertura_ltsx {
+    width: 100%;
+    display: table;
+}
+
+.imagen_titulo_yo_mayor {
+    width: 673px;
+    margin-left: 88px;
+}
+
+
+/*-------seccion 2------------*/
+.contenedor_seccion_uno_ymyr {
+    width: 1100px;
+    display: table;
+    margin: auto;
+}
+
+.contenedor_logo_ltsxd {
+    width: 550px;
+    float: left;
+    height: auto;
+    text-align: center;
+}
+
+.logo_secion2_ltsx {
+    width: 413px;
+}
+
+.contenedor_texto_seccion2 {
+    width: 550px;
+    float: left;
+}
+
+.texto_seccion_ltxdf {
+    font-family: adelle, serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 19px;
+    width: 450px;
+    margin: auto;
+    color: #414141;
+    line-height: 38px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.logo_secion2_ltsx {
+    width: 459px;
+    margin-top: 255px;
+}
+
+.modificacion_texto_ltsxd {
+    text-transform: uppercase;
+}
+
+
+.contenedor_principal_ymyr-dos {
+    background-color: #EBF0EE;
+    background-image: none;
+    width: 100%;
+    display: table;
+    padding: 90px 0px 70px 0px;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 90;
+}
+
+/*-----------seccion 3-------------*/
+
+
+.contenedor_principal_ymyr-tres{
+
+	background-color: #fff;
+    background-image: none;
+    width: 100%;
+    display: table;
+    padding: 90px 0px 70px 0px;
+    box-sizing: border-box;
+    background-image: url('https://www.eltiempo.com/infografias/2020/12/yo_mayor/img/textura_fondo_blanco.png');
+}
+
+.base_enacabezado_tres_ltsxd {
+    width: 1100px;
+    display: table;
+    margin: auto;
+    text-align: center;
+}
+
+.logo_encabezado_tres_ltsx {
+    width: 554px;
+}
+
+.texto_seccion3_ltsxd {
+    color: #707070;
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19px;
+    text-transform: uppercase;
+    width: 627px;
+    margin: 30px auto 25px auto;
+    line-height: 27px;
+}
+
+.autor_texto_ltsxd {
+    font-family: adelle-sans, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #707070;
+    border-bottom: 1px solid;
+    width: auto;
+    padding-bottom: 6px;
+    display: table;
+    margin: auto;
+}
+
+.contenedor_subseccion_uno_ltsx{
+
+	width: 550px;
+	float: left;
+	display: table;
+}
+
+.contenedor_subseccion_uno_ltsx {
+    width: 550px;
+    float: left;
+    display: table;
+    margin-top: 60px;
+    position: relative;
+
+}
+
+.seccion_vermas_tlsx_2{
+
+	display: none;
+}
+
+.modificar_padding_ltsxd {
+    padding: 0px 40px;
+    box-sizing: border-box;
+    float: right;
+}
+
+.contenedor_subseccion_dos_ltsx {
+    width: 550px;
+    float: left;
+    display: table;
+}
+
+.ilustracion_seccion_2_ltsx {
+    width: 550px;
+    margin-left: -78px;
+}
+
+.letra_Detallada_ltsx {
+    font-family: charcuterie-deco, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    color: #A0783C;
+    letter-spacing: -24px;
+}
+
+.contenedor_subsecciones_ltsx {
+    width: 1100px;
+    display: table;
+    position: relative;
+}
+
+
+
+.leer_mas_ltsxd {
+    display: block;
+    width: 100%;
+    float: inherit;
+    text-align: center;
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    color: #707070;
+    padding-left: 0;
+    cursor: pointer;
+    margin-top: -4px;
+    transition: all ease .5s;
+    position: relative;
+    z-index: 90;
+}
+
+
+
+.leer_mas_ltsxd:hover {
+
+    transform: perspective(600px) rotateY(360deg);
+
+}
+
+
+/*------------secion 4-----------*/
+
+.contenedor_principal_ymyr-cuatro{
+
+	background-color: #fff;
+    background-image: none;
+    width: 100%;
+    display: table;
+    padding: 90px 0px 70px 0px;
+    box-sizing: border-box;
+}
+
+
+.contenedor_principal_ymyr-cuatro{
+
+	display: table;
+	background-color: #EBF0EE;
+
+}
+
+.base_seccion_cuatro_ltsx{
+
+	width: 1100px;
+	display: table;
+	
+}
+
+.logo_encabezado_cuatro_ltsx {
+    width: 362px;
+    margin-bottom: 22px;
+}
+
+.padding_4ltsx {
+    text-align: center;
+    width: 239px;
+    float: initial;
+    margin: 38px auto 0px auto;
+}
+
+.padding_autor_4 {
+    width: 251px;
+    border: none;
+}
+
+.ilustracion_seccion_4_ltsx {
+    width: 579px;
+    margin-top: 0;
+    margin-left: -300px;
+}
+
+.borde_abajo_ltsx {
+    width: 148px;
+    height: 1px;
+    background-color: #707070;
+    margin: auto;
+}
+
+.quitar_padding_ltsx {
+    padding-left: 0px;
+}
+
+
+
+/*---------secciion 5-----------*/
+.base_contenedor_5_ltsx {
+    width: 1100px;
+    margin: auto;
+    height: auto;
+}
+
+.modificar_ancho_encabezado_ltsxd {
+    float: left;
+    width: 600px;
+}
+
+.logo_encabezado_tres_ltsx_5 {
+    width: 233px;
+}
+
+.contenedor_radio_ltsxf {
+    width: 1100px;
+    display: table;
+    margin: auto;
+}
+
+.base_imagen_radio_ltsxd {
+    width: 700px;
+    float: left;
+    position: relative;
+    z-index: 50;
+}
+
+.base_textos_radio_ltsxd {
+    width: 400px;
+    float: left;
+    padding-top: 146px;
+    margin-left: -79px;
+}
+
+.imagen_radio_ltsxd{
+
+	width: 100%;
+}
+
+.tiulos_posdcast_ltsx {
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #707070;
+    margin-bottom: 3px;
+    margin-left: 20px;
+}
+
+
+/*----------seccion medios--------*/
+.contenedor_video_ltsxd {
+    width: 950px;
+    display: table;
+    margin: auto;
+    position: relative;
+}
+.tv_ltsxd {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+    z-index: 70;
+}
+
+.video_televisor_ltsxd {
+    margin-left: 225px;
+    width: 652px;
+    height: 766px;
+    margin-top: -150px;
+    border-radius: 93px;
+    position: relative;
+    z-index: 20;
+    margin-left: 148px;
+}
+
+
+.video_televisor_ltsxd2 {
+    margin-left: 225px;
+    width: 652px;
+    height: 766px;
+    margin-top: -150px;
+    border-radius: 93px;
+    position: relative;
+    z-index: 20;
+    margin-left: 148px;
+    display: none;
+}
+
+
+.boton_texto_ltsx {
+    width: 198px;
+}
+
+.base_textos_ltsxd {
+    width: 400px;
+    margin: 297px auto 0px auto;
+}
+
+
+/*--------creditos-----------*/
+
+.contenedor_informacion_ltsxd {
+    width: 800px;
+    display: table;
+    margin: auto;
+}
+
+.proxima_extrega_lstx {
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+    font-size: 18px;
+    padding-left: 12px;
+}
+
+
+.nombre_proxima_entrega_ltsx {
+    width: 100%;
+    height: 100px;
+    background-color: #A06878;
+    margin-top: 14px;
+    border-radius: 12px;
+}
+
+.textos_prixima_entrega{
+	float: left;
+	width: auto;
+}
+
+.titulo_proxima_entrega_ltsx {
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    color: #FFFFFF;
+    line-height: 41px;
+    text-transform: uppercase;
+}
+
+
+.descripcion_proxima_entrega {
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.nombre_proxima_entrega_ltsx {
+    width: 100%;
+    height: 100px;
+    background-color: #A06878;
+    margin-top: 14px;
+    border-radius: 12px;
+    padding: 13px 40px 13px 56px;
+    box-sizing: border-box;
+}
+
+.base_tu_creatividad {
+    width: 500px;
+    margin: 90px auto 0px auto;
+}
+
+.texto_ltsxdf {
+    font-family: adelle, serif;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+    font-size: 15px;
+    padding: 0px 80px 20px 80px;
+}
+
+
+.titulo_de_creatividad_ltsx {
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 33px;
+    color: #707070;
+    margin-bottom: 14px;
+}
+
+
+.enlace_yo_mayor_ltsx {
+    text-align: center;
+    display: block;
+    color: #456762;
+    text-decoration: none;
+    font-family: adelle, serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 14px;
+    position: relative;
+    z-index: 90;
+    transition: transform .2s;
+}
+.enlace_yo_mayor_ltsx:hover{
+
+    transform: scale(0.8);
+
+}
+
+.boton_leer_mas_ltsx {
+    width: 52px;
+}
+
+
+.base_leer_mas_ltsxd {
+    width: 210px;
+    display: inline-table;
+    margin: 83px auto 0 auto;
+    padding-left: 0;
+    position: relative;
+    z-index: 90;
+}
+
+.quitar_padding_base_ltrd {
+    padding-left: 0px;
+}
+
+.boton_ancho_ltsxd {
+    width: 356px;
+    margin-bottom: 22px;
+    position: relative;
+    z-index: 90;
+    transition: transform .2s;
+    cursor: pointer;
+}
+
+.boton_ancho_ltsxd:hover{
+
+    transform: scale(0.9);
+}
+
+.boton_mediano_ltsxd {
+    width: 224px;
+    margin-bottom: 22px;
+    position: relative;
+    z-index: 90;
+    transition: transform .2s;
+    cursor: pointer;
+}
+
+.boton_mediano_ltsxd:hover{
+
+    transform: scale(0.9);
+}
+
+.boton_mediano_tv_ltsxd{
+
+    width: 208px;
+    margin-bottom: 22px;
+    position: relative;
+    z-index: 90;
+    transition: transform .2s;
+    cursor: pointer;
+}
+
+.boton_mediano_tv_ltsxd:hover{
+
+    transform: scale(0.9);
+}
+
+.base_textos_ltsxd {
+    width: 478px;
+    margin: 130px auto 0px auto;
+}
+
+.boton_mediano_tv_ltsxd {
+    width: 208px;
+    margin-bottom: 22px;
+    margin-left: 18px;
+}
+
+
+.logo_de_colecion_ltsx {
+    width: 64px;
+    margin-top: -8px;
+    margin-right: -14px;
+}
+
+.subcontenedor_proxima_entrega_2 {
+    float: right;
+    width: auto;
+}
+
+.flecha_link_ltsx {
+    width: 45px;
+}
+
+.base_link_ltsxd {
+    text-align: center;
+}
+
+
+/*-------creditos---------*/
+.base_contenido_logos_lysx {
+    width: 738px;
+    display: table;
+    margin: auto;
+    position: relative;
+}
+
+
+.subocontenido_logo_uno_ltsx {
+    width: 50%;
+    float: left;
+    display: table;
+}
+
+
+.titulo_organizan_ltsx {
+    font-family: adelle, serif;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+    font-size: 15px;
+}
+
+.logo_uno_litsx {
+    width: 180px;
+    float: left;
+}
+.logo_dos_litsx {
+    width: 168px;
+    float: left;
+    margin-left: 21px;
+    margin-top: 10px;
+}
+
+.logo_tiempo_listd {
+    width: 187px;
+}
+
+.subocontenido_logo_dos_ltsx {
+    width: 39%;
+    float: left;
+    display: table;
+    text-align: center;
+    margin-left: 55px;
+    border-left: 1px solid #707070;
+}
+
+.base_contenedor_creditos_ltsx {
+    width: 900px;
+    margin: 90px auto 0px auto;
+    display: table;
+}
+
+.titulo_creditos_lysx {
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    color: #45675E;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.parafo_de_creditos_ltsxd {
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: #707070;
+    line-height: 25px;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.destacado_texto_creditos_ltsx {
+    font-family: adelle, serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #707070;
+}
+
+
+.detalle_creditos_autor_ltsx {
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: #707070;
+    line-height: 25px;
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+
+.labor_ltsxd {
+    font-family: adelle, serif;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    color: #707070;
+    line-height: 25px;
+    /* font-size: 16px; */
+    margin-bottom: 7px;
+}
+
+.contenedor_autores_de_pryecto_ltsx {
+    width: auto;
+    margin: 35px 0px 0px 0px;
+}
+
+.flecha_scroll_ltsxd {
+    width: 35px;
+}
+
+.base_flecha_scroll_ltsxd{
+
+    width: 50px;
+    text-align: center;
+    margin: auto;
+    display: table;
+
+}
+
+.flecha_scroll_ltsxd {
+    width: 32px;
+    margin-top: 90px;
+    margin-bottom: 16px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.flecha_scroll_ltsxd:hover {
+    transform: scale(1.3);
+}
+
+.contenedor_creditos_ltsd {
+    width: 100%;
+    display: table;
+    background-color: #F0FCFA;
+    padding: 60px 0px;
+    position: relative;
+    z-index: 90;
+}
+
+.tiulos_posdcast_ltsx.selecciones_historia_ltsx {
+    text-decoration: underline;
+    padding-bottom: 9px;
+}
+
+.lea_otras_historias_ltsx {
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    color: #707070;
+    line-height: 25px;
+    margin-bottom: 7px;
+    padding-left: 7px;
+}
+
+.seleccione_un_libro_ltsx {
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+    font-size: 12px;
+    text-align: center;
+}
+
+
+
+.contenedor_menu_flotante_ltsx {
+    width: 118px;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    margin-top: 90px;
+    z-index: 40;
+    display: none;
+}
+
+
+.menu_libros_ltsxd {
+    width: 103px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.menu_libros_ltsxd:hover {
+    transform: scale(0.8);
+    transform: rotate3d(1, 1, 1, 45deg);
+}
+
+.contenedor_general_menu_flotante_ltsx {
+    width: 1300px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    z-index: 10;
+}
+
+.flecha_libros_ltsx {
+    margin-top: -12px;
+    width: 33px;
+    margin-left: -29px;
+    display: block;
+}
+
+.autor_fuente_regular_ltsxd {
+    color: #707070;
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 5px;
+}
+
+.esconder_mobile{
+    display: none;
+}
+
+
+.contenedor_iconos_reproduccion {
+    width: 168px;
+    height: 50px;
+    position: absolute;
+    top: 215px;
+    left: 155px;
+}
+
+.icono_de_reproduccion_radio {
+    height: 39px;
+    margin-left: 32px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.icono_de_reproduccion_radio:hover{
+
+    transform: scale(1.2);
+}
+
+.sin_padding_ltsx{
+
+    margin-left: 0px;
+}
+
+
+
+.seleccionado_ltsx{
+
+    background-color: #060606;
+    transform: scale(1.2);
+}
+
+
+.contenedor_iconos_reproduccion_video {
+    width: 237px;
+    height: 50px;
+    position: absolute;
+    top: 458px;
+    left: 356px;
+    z-index: 80;
+    background-color: #3B2500;
+    
+}
+
+
+
+
+.icono_de_reproduccion_video {
+    height: 39px;
+    margin-left: 46px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.icono_de_reproduccion_video:hover{
+
+    transform: scale(1.2);
+}
+
+
+.video_sin_padding_ltsx {
+    margin-left: 22px;
+}
+
+
+
+
+
+ .portada{
+        animation-name: mostrarTitulo;
+        animation-duration: 3s; 
+    }
+    @keyframes mostrarTitulo{
+        0%{
+            transform: scale(0.6);
+            opacity: 0;
+        }
+        100%{
+            transform: scale(1);
+            opacity: 1;
+        }
+    }
+
+
+ /*-----------descripcion------*/
+.titulo {
+
+      animation-name: myanimation;
+      animation-duration: 4.5s;
+     
+    }
+    @keyframes myanimation {
+      0%   {
+        transform: translateY(-90px);
+        opacity:0;
+         
+      }
+      100%  {
+        transform: translateY(0px);
+        opacity:1; 
+      }
+
+    }
+
+/*-----------descripcion------*/
+.mostrarTexto{
+
+    animation-name: mostrarTexto;
+    animation-duration: 2s; 
+
+}
+
+ @keyframes mostrarTexto{
+        0%{
+            transform: translateY(-90px);
+            opacity: 0;
+        }
+        100%{
+            transform: translateY(0px);
+            opacity: 1;
+        }
+    }
+
+/*-----------descripcion------*/
+
+
+
+
+/*-----------redes---------*/
+    .animacion-face {
+      animation-name: animacion-face;
+      animation-duration: 1.5s;
+    }
+    @keyframes animacion-face {
+      0%   {
+        transform: translate(190px, 160px);
+        opacity:0;
+         
+      }
+      100%  {
+        transform: translateY(0px);
+        opacity:1; 
+      }
+
+    }
+
+    .animacion-twit {
+      animation-name: animacion-twit;
+      animation-duration: 2s;
+    }
+    @keyframes animacion-twit {
+      0%   {
+        transform: translate(190px, 160px);
+        opacity:0;
+         
+      }
+      100%  {
+        transform: translateY(0px);
+        opacity:1; 
+      }
+
+    }
+
+    .animacion-whats {
+      animation-name: animacion-whats;
+      animation-duration: 2.5s;
+    }
+    @keyframes animacion-whats {
+      0%   {
+        transform: translate(190px, 160px);
+        opacity:0;
+         
+      }
+      100%  {
+        transform: translateY(0px);
+        opacity:1; 
+      }
+
+    }
+
+
+
+
+/*----------------mostrar textos-----------*/
+ /*-----------descripcion------*/
+
+
+.imagen_parrafo {
+
+    animation-name: myanimation;
+      animation-duration: 4.5s;
+     
+    }
+    @keyframes myanimation {
+      0%   {
+        transform: translateY(190px);
+        opacity:0;
+         
+      }
+      100%  {
+        transform: translateY(0px);
+        opacity:1; 
+      }
+
+    }
+
+
+
+.textos_parrafo {
+
+    animation-name: myanimation;
+      animation-duration: 4.5s;
+     
+    }
+    @keyframes myanimation {
+      0%   {
+        transform: translateY(190px);
+        opacity:0;
+         
+      }
+      100%  {
+        transform: translateY(0px);
+        opacity:1; 
+      }
+
+    }
+
+
+
+
+.imagen_parrafo_interno {
+
+    animation-name: myanimation;
+      animation-duration: 1.0s;
+     
+    }
+    @keyframes myanimation {
+      0%   {
+        transform: translateY(190px);
+        opacity:0;
+         
+      }
+      100%  {
+        transform: translateY(0px);
+        opacity:1; 
+      }
+
+    }
+
+
+/*-----------descripcion------*/
+
+
+
+.flecha {
+
+      animation-name: flecha;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+     
+    }
+    @keyframes flecha {
+      0%   {
+        
+        opacity:0;
+         
+      }
+      100%  {
+      
+        opacity:1; 
+      }
+
+    }
+
+
+
+
+
+
+#audios_ltsx {
+    display: none;
+}
+
+
+#libro_volver{
+
+    display: none;
+}
+
+.justicia_verde_ltsx {
+    width: 185px;
+    display: none;
+    margin-top: 50px;
+}
+
+.casa_verde_ltsx {
+    width: 142px;
+    display: block;
+    /* margin-top: 334px; */
+    margin-left: 63px;
+    display: none;
+    margin-top: 50px;
+}
+
+
+
+.rey_verde_ltsx {
+    width: 112px;
+    margin-left: 185px;
+    display: none;
+    margin-top: 50px;
+}
+
+
+
+
+.bajar_contendor_casa_ltsxd{
+
+    margin-top: 336px;
+}
+
+
+
+.boton_apntalla_completa {
+    width: 269px;
+    padding: 10px 8px;
+    background-color: #3b2500;
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #d7d5ba;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: absolute;
+    left: 17px;
+    right: 0;
+    margin: auto;
+    top: 522px;
+    z-index: 90;
+    border: 3px solid #3b2500;
+}
+
+
+.quitar_bottom_ltsxd {
+    margin-top: 8px;
+
+}
+
+.texto_centrar_numero {
+    font-family: adelle, serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 19px;
+    padding-bottom: 0px;
+    margin-top: 32px;
+}
+
+.oprimido_tv_ltsx {
+    background-color: #909584;
+    padding: 0px 4px;
+}
+
+.modificar_alto_de_parrafo_lkt {
+    margin-top: -20px;
+}
+
+
+#seccion4_ltsx {
+    z-index: 9;
+}
+
+
+
+.boton_desktop_leer_lts, .boton_desktop_leer_lts2, .boton_desktop_leer_lts3{
+
+    width: 52px;
+    cursor: pointer;
+}
+
+
+.esparcir_l_mobile {
+    letter-spacing: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media( max-width: 1400px){
+
+
+.borde_abajo_ltsx {
+    width: 148px;
+    height: 1px;
+    background-color: #707070;
+    margin: 0px auto 60px auto;
+}
+
+.logo_encabezado_tres_ltsx_5 {
+    width: 192px;
+}
+
+.texto_apertura_ymyr {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.logo_secion2_ltsx {
+    width: 424px;
+    margin-top: 255px;
+}
+
+.texto_seccion3_ltsxd {
+    font-size: 17px;
+    line-height: 27px;
+    width: 479px;
+}
+.letra_Detallada_ltsx {
+    font-size: 71px;
+    letter-spacing: -14px;
+}
+
+.contenedor_general_menu_flotante_ltsx {
+    width: 1100px;
+    position: fixed;
+}
+.logo_encabezado_cuatro_ltsx {
+    width: 314px;
+    margin-bottom: 22px;
+}
+
+.autor_texto_ltsxd {
+    font-size: 16px;
+}
+
+.texto_seccion_ltxdf {
+    font-family: adelle, serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    width: 408px;
+    margin: auto;
+    color: #414141;
+    line-height: 35px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.modificar_ancho_encabezado_ltsxd {
+    float: left;
+    width: 528px;
+    margin-left: 101px;
+}
+
+
+.modificar_alto_de_parrafo_lkt {
+    margin-top: -20px;
+}
+
+}
+
+
+
+@media( max-width: 600px){
+
+
+
+.modificar_alto_de_parrafo_lkt {
+    margin-top: -23px;
+}
+
+#leer_mas_2 {
+    display: block;
+}
+
+.seccion_vermas_tlsx_2 {
+    display: block;
+}
+
+
+p.autor_texto_ltsxd.padding_autor_4 {
+    width: 323px;
+}
+.autor_fuente_regular_ltsxd {
+    font-family: adelle-sans, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #707070;
+    padding-bottom: 6px;
+    display: table;
+    margin: auto;
+    font-size: 15px;
+    float: right;
+    margin-left: 5px;
+    margin-top: -7px;
+}
+
+
+.boton_apntalla_completa {
+
+        width: 224px;
+    padding: 8px 6px;
+    background-color: #3b2500;
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #d7d5ba;
+    font-size: 13px;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: absolute;
+    left: 13px;
+    right: 0;
+    margin: auto;
+    top: 256px;
+    z-index: 90;
+    border: 3px solid #3b2500;
+    display: none;
+}
+
+
+.regresar_ltsxd {
+    text-decoration: none;
+}
+
+.contenedor_menu_flotante_ltsx {
+    width: 200px;
+    margin: 50px auto;
+    display: block;
+}
+
+#seccion3_ltsx{
+
+    display: none;
+}
+
+#seccion4_ltsx{
+
+    display: none;
+}
+
+#seccion5_ltsx{
+
+    display: none;
+}
+
+.video_televisor_ltsxd2 {
+    margin-left: 0;
+    width: 83%;
+    height: 211px;
+    margin-top: 46px;
+    border-radius: 12px;
+}
+
+
+.icono_de_reproduccion_radio {
+    height: 29px;
+    margin-left: 11px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.contenedor_iconos_reproduccion_video {
+    width: 146px;
+    height: 42px;
+    position: absolute;
+    top: 200px;
+    left: 122px;
+    z-index: 80;
+    background-color: #3B2500;
+    display: none;
+}
+
+.icono_de_reproduccion_video {
+    height: 32px;
+    margin-left: 23px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.video_sin_padding_ltsx {
+    margin-left: 0;
+}
+
+
+.contenedor_iconos_reproduccion {
+    width: 116px;
+    height: 47px;
+    position: absolute;
+    top: 113px;
+    left: 71px;
+}
+
+
+.contenidor_texto_ymyr {
+    width: 100%;
+    display: table;
+    position: relative;
+    top: 67px;
+    right: 0;
+}
+
+
+.contenedor_header_ymyr {
+    width: 100%;
+    height: 723px;
+}
+
+.contenedor_seccion_uno_ymyr {
+    width: 100%;
+    display: table;
+    margin: auto;
+}
+
+.contenedor_logo_ltsxd {
+    width: 100%;
+    float: inherit;
+    height: auto;
+    text-align: center;
+}
+
+.contenedor_texto_seccion2 {
+    width: 100%;
+    float: inherit;
+}
+
+.base_enacabezado_tres_ltsxd {
+    width: 100%;
+    display: table;
+
+}
+
+.contenedor_subsecciones_ltsx {
+    width: 100%;
+    display: table;
+}
+
+.contenedor_subseccion_uno_ltsx {
+    width: 100%;
+    float: initial;
+    display: table;
+    margin-top: 26px;
+}
+
+.contenedor_subseccion_dos_ltsx {
+    width: 100%;
+    float: inherit;
+    display: table;
+}
+
+.modificar_padding_ltsxd {
+    padding: 0px 40px;
+    box-sizing: border-box;
+    float: inherit;
+}
+
+.texto_seccion_ltxdf {
+    width: 100%;
+    padding: 0px 65px;
+    box-sizing: border-box;
+    font-size: 19px;
+    line-height: 33px;
+    margin-bottom: 24px;
+}
+
+.base_leer_mas_ltsxd {
+    width: 100%;
+    display: table;
+    margin: 48px auto 20px auto;
+    padding-left: 0px;
+}
+
+.contenedor_radio_ltsxf {
+    width: 100%;
+    display: table;
+    margin: auto;
+    text-align: center;
+}
+
+.base_imagen_radio_ltsxd {
+    width: 100%;
+    float: inherit;
+}
+
+.base_textos_radio_ltsxd {
+    width: 100%;
+    float: inherit;
+    padding-top: 5px;
+    margin-left: 0;
+    margin-top: -29px;
+}
+
+.contenedor_video_ltsxd {
+    width: 100%;
+    display: table;
+    margin: auto;
+    position: relative;
+    background-image: url(https://www.eltiempo.com/infografias/2020/12/yo_mayor/img/tv.png?90);
+    background-size: 128%;
+    background-repeat: no-repeat;
+    background-position-x: -57px;
+}
+
+.contenedor_informacion_ltsxd {
+    width: 100%;
+    display: table;
+    margin: auto;
+    padding: 0px 25px;
+    box-sizing: border-box;
+}
+.base_tu_creatividad {
+    width: 100%;
+    margin: 90px auto 0px auto;
+}
+
+.base_contenido_logos_lysx {
+    width: 100%;
+    display: table;
+    margin: auto;
+    position: relative;
+}
+
+.base_contenedor_creditos_ltsx {
+    width: 100%;
+    margin: 90px auto 0px auto;
+    display: table;
+    padding: 0px 40px;
+    box-sizing: border-box;
+}
+
+.base_contenedor_5_ltsx {
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+.base_textos_ltsxd {
+    width: 100%;
+    margin: 297px auto 0px auto;
+}
+.imagen_aperura_ymyr {
+    width: 100%;
+    float: inherit;
+    margin-left: 0;
+}
+
+.texto_apertura_ymyr {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    padding: 0px 50px;
+    box-sizing: border-box;
+    line-height: 28px;
+}
+.contenedor_redes_sociales_ymyr {
+    width: 134px;
+    display: table;
+    margin: 30px auto;
+    height: inherit;
+}
+.imagen_titulo_yo_mayor {
+    width: 100%;
+    margin-left: 0px;
+    padding: 0px 30px;
+    box-sizing: border-box;
+}
+
+.logo_encabezado_tres_ltsx {
+    width: 100%;
+}
+
+.texto_seccion3_ltsxd {
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.ilustracion_seccion_2_ltsx {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0;
+}
+
+.video_televisor_ltsxd {
+    margin-left: 0;
+    width: 83%;
+    height: 211px;
+    margin-top: 46px;
+    border-radius: 12px;
+}
+
+
+.textos_prixima_entrega {
+    float: left;
+    width: 225px;
+}
+
+.subcontenedor_proxima_entrega_2 {
+    float: right;
+    width: 69px;
+}
+.subocontenido_logo_uno_ltsx {
+    width: 100%;
+    float: left;
+    display: table;
+}
+
+.subocontenido_logo_dos_ltsx {
+    width: 100%;
+    float: left;
+    display: table;
+    text-align: center;
+    margin-left: 0;
+    margin-top: 26px;
+    border-left: none;
+}
+
+.contenedor_autores_de_pryecto_ltsx {
+    width: 100%;
+    margin: 35px 0px 0px 0px;
+}
+
+.contenedor_general_menu_flotante_ltsx {
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    z-index: 10;
+}
+
+.ilustracion_seccion_4_ltsx {
+    width: 100%;
+    margin-top: 0;
+    margin-left: 0;
+}
+.logo_encabezado_cuatro_ltsx {
+    width: 57%;
+    margin-bottom: 22px;
+}
+
+.modificar_ancho_encabezado_ltsxd {
+    float: inherit;
+    width: 100%;
+    margin-left: 0;
+}
+.contenedor_menu_flotante_ltsx {
+    width: 100%;
+    text-align: center;
+    /* position: fixed; */
+    left: 0;
+    margin-top: 90px;
+    z-index: 10;
+}
+
+.logo_secion2_ltsx {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 65px;
+}
+
+.esconder_desktop {
+    display: none;
+    font-size: 26px;
+}
+
+.esconder_mobile{
+
+    display: block;
+}
+
+.iconos_rerds_ltsx {
+    width: 18px;
+    margin-left: 31px;
+    cursor: pointer;
+}
+
+.margen_facebook_ltsx {
+    margin-left: 0px;
+}
+
+
+.contenedor_mobile_redes_ltsx {
+    width: 142px;
+    margin: 20px auto;
+    height: 40px;
+}
+
+.contenedor_principal_ymyr-dos {
+ 
+    display: table;
+    padding: 32px 10px 30px 10px;
+
+}
+
+.lea_otras_historias_ltsx {
+    font-size: 36px;
+    color: #707070;
+    line-height: 36px;
+    margin-bottom: 7px;
+    padding-left: 38px;
+    text-align: left;
+}
+
+.seleccione_un_libro_ltsx {
+    font-size: 16px;
+    width: 100px;
+    text-align: left;
+    margin-left: 39px;
+}
+
+.contenedor_menu_flotante_ltsx {
+    width: 200px;
+    margin: 50px auto;
+}
+
+.contenedor_menu_flotante_ltsx {
+    width: 200px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.menu_libros_ltsxd {
+    width: 142px;
+}
+
+.flecha_libros_ltsx {
+    margin-top: -26px;
+    width: 33px;
+    margin-left: 0px;
+    display: block;
+    margin-bottom: 14px;
+}
+
+
+.logo_encabezado_tres_ltsx {
+    width: 69%;
+    margin: 10px 0px;
+}
+
+.autor_texto_ltsxd {
+    font-size: 15px;
+    border-bottom: none;
+    border-bottom: 1px solid;
+    padding-bottom: 0px;
+    margin-bottom: 13px;
+}
+
+.letra_Detallada_ltsx {
+    font-size: 78px;
+}
+
+.contenedor_principal_ymyr-tres {
+    background-color: #fff;
+    background-image: none;
+    width: 100%;
+    display: table;
+    padding: 90px 10px 30px 10px;
+    box-sizing: border-box;
+}
+
+.modificar_contenido_mobile {
+    background-color: #fff;
+}
+
+
+.borde_abajo_ltsx {
+    display: none;
+}
+
+.padding_4ltsx {
+    float: inherit;
+    /* width: 309px; */
+    margin-top: 40px;
+}
+
+
+.mostrar_seccion_mobile_ltsx{
+
+    display: block;
+}
+
+
+.texto_centrar_numero {
+    font-family: adelle, serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 19px;
+    width: 100%;
+    margin: 64px auto 0px auto;
+    color: #414141;
+}
+
+.quitar_bottom_ltsxd {
+    margin-top: 30px;
+}
+
+.logo_encabezado_tres_ltsx_5 {
+    width: 38%;
+    margin-top: 20px;
+}
+
+.tiulos_posdcast_ltsx {
+    margin-left: 0px;
+}
+
+.boton_ancho_ltsxd {
+    width: 332px;
+    margin-bottom: 22px;
+}
+
+.boton_mediano_ltsxd {
+    width: 208px;
+    margin-bottom: 22px;
+}
+
+.base_textos_ltsxd {
+    width: 100%;
+    margin: 161px auto 0px auto;
+    display: block;
+}
+
+.contenedor_principal_ymyr-tres {
+    padding: 28px 10px 30px 10px;
+}
+
+.nombre_proxima_entrega_ltsx {
+    width: 100%;
+    height: 84px;
+    background-color: #A06878;
+    margin-top: 14px;
+    border-radius: 7px;
+    padding: 9px 0px 13px 20px;
+    box-sizing: border-box;
+}
+
+.titulo_proxima_entrega_ltsx {
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-top: 10px;
+    text-transform: uppercase;
+    width: 181px;
+}
+
+.descripcion_proxima_entrega {
+    display: none;
+}
+
+.logo_de_colecion_ltsx {
+    width: 53px;
+    margin-top: -3px;
+    margin-right: 0;
+}
+
+.titulo_de_creatividad_ltsx {
+    width: 300px;
+    margin: 0px auto 20px auto;
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 33px;
+    color: #707070;
+    text-align: center;
+    line-height: 30px;
+}
+
+.flecha_link_ltsx {
+    width: 31px;
+}
+
+.contenedor_creditos_ltsd {
+    width: 100%;
+    display: table;
+    background-color: #C8D6D25F;
+    padding: 60px 20px;
+    position: relative;
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+.logo_uno_litsx {
+    width: 160px;
+    float: left;
+}
+
+.logo_dos_litsx {
+    width: 154px;
+    float: left;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+
+
+.logo_tiempo_listd {
+    width: 173px;
+    margin-top: -13px;
+}
+
+
+.parafo_de_creditos_ltsxd {
+    font-size: 17px;
+    line-height: 27px;
+}
+
+.subseccion_uno_menu_interno {
+    width: 39%;
+    display: table;
+    float: left;
+    margin-left: 42px;
+}
+
+.subseccion_dos_menu_interno {
+    width: 50%;
+    float: right;
+    display: table;
+}
+
+.lea_otras_historias_ltsx_interno {
+    font-size: 24px;
+    color: #707070;
+    padding-top: 23px;
+    line-height: 24px;
+    margin-bottom: 7px;
+    padding-left: 46px;
+    text-align: left;
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.menu_libros_ltsxd_internos {
+    width: 77px;
+    float: left;
+}
+
+
+/*
+.esconder_mobile.menu_seccion_interna_ltsx {
+    width: 100%;
+    display: table;
+    margin-bottom: 61px;
+    margin-top: 38px;
+}
+
+*/
+
+
+.esconder_mobile.menu_seccion_interna_ltsx {
+    width: 100%;
+    display: table;
+    margin-bottom: 18px;
+    margin-top: 18px;
+    position: relative;
+    background-color: #fff;
+    z-index: 90;
+    top: 0;
+    left: 0;
+    padding: 20px 0px 10px 0px;
+    box-sizing: border-box;
+}
+
+.esparcir_l {
+    letter-spacing: 4px;
+}
+
+.esparcir_l_mobile {
+    letter-spacing: 8px;
+}
+
+.tv_ltsxd{
+
+    display: none;
+}
+
+.contenedor_iconos_reproduccion_video_2 {
+    display: none;
+}
+
+}
+
+
+@media( max-width: 380px){
+
+
+.modificar_alto_de_parrafo_lkt {
+    margin-top: -18px;
+}
+.video_televisor_ltsxd {
+    margin-left: 0;
+    width: 83%;
+    height: 211px;
+        margin-top: 31px;
+    border-radius: 12px;
+    margin-left: 2px;
+}
+
+.video_televisor_ltsxd2 {
+    margin-left: 0;
+    width: 83%;
+    height: 211px;
+        margin-top: 31px;
+    border-radius: 12px;
+    margin-left: 2px;
+}
+
+p.autor_texto_ltsxd.padding_autor_4 {
+    width: 306px;
+}
+
+.boton_apntalla_completa {
+    top: 237px;
+}
+
+
+.base_contenedor_creditos_ltsx {
+    width: 100%;
+    margin: 65px auto 0px auto;
+    display: table;
+    padding: 0px 40px;
+    box-sizing: border-box;
+}
+
+.base_textos_ltsxd {
+    width: 100%;
+    margin: 137px auto 0px auto;
+    display: block;
+}
+
+.icono_de_reproduccion_radio {
+    height: 29px;
+    margin-left: 9px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.contenedor_iconos_reproduccion_video {
+    width: 146px;
+    height: 42px;
+    position: absolute;
+    top: 177px;
+    left: 102px;
+    z-index: 80;
+    background-color: #3B2500;
+}
+
+.contenedor_iconos_reproduccion {
+    width: 116px;
+    height: 47px;
+    position: absolute;
+    top: 106px;
+    left: 57px;
+}
+
+
+.contenedor_header_ymyr {
+    
+    width: 100%;
+    height: 683px;
+}
+
+.texto_seccion_ltxdf {
+    width: 100%;
+    padding: 0px 55px;
+    box-sizing: border-box;
+    font-size: 18px;
+    line-height: 27px;
+    /* margin: 9px auto 41px auto; */
+    margin-bottom: 20px;
+}
+
+.menu_libros_ltsxd {
+    width: 131px;
+}
+
+.subseccion_uno_menu_interno {
+    width: 39%;
+    display: table;
+    float: left;
+    margin-left: 21px;
+}
+
+.lea_otras_historias_ltsx_interno {
+    font-size: 22px;
+    line-height: 21px;
+    padding-top: 25px;
+    padding-left: 55px;
+}
+
+.logo_encabezado_tres_ltsx {
+    width: 63%;
+    margin: 10px 0px;
+}
+
+.texto_seccion3_ltsxd {
+    width: 100%;
+    font-size: 15px;
+    line-height: 23px;
+}
+
+.autor_texto_ltsxd {
+    font-size: 14px;
+  
+}
+
+.letra_Detallada_ltsx {
+    font-size: 72px;
+}
+
+.esconder_mobile {
+    display: block;
+}
+.boton_leer_mas_ltsx {
+    width: 46px;
+}
+
+.logo_encabezado_cuatro_ltsx {
+    width: 53%;
+    margin-bottom: 22px;
+}
+
+.boton_ancho_ltsxd {
+    width: 278px;
+    margin-bottom: 22px;
+}
+
+.boton_mediano_ltsxd {
+    width: 176px;
+    margin-bottom: 22px;
+}
+
+.boton_mediano_tv_ltsxd {
+    width: 176px;
+    margin-bottom: 16px;
+    margin-left: 18px;
+}
+
+.subcontenedor_proxima_entrega_2 {
+    float: right;
+    width: 57px;
+}
+
+.titulo_proxima_entrega_ltsx {
+    width: 169px;
+}
+
+.titulo_de_creatividad_ltsx {
+    font-size: 29px;
+    line-height: 27px;
+}
+
+.logo_uno_litsx {
+    width: 45%;
+    float: left;
+}
+
+
+.logo_dos_litsx {
+    width: 45%;
+    float: left;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.logo_tiempo_listd {
+    width: 148px;
+    margin-top: -13px;
+}
+
+.parafo_de_creditos_ltsxd {
+    font-size: 17px;
+    line-height: 23px;
+}
+
+.detalle_creditos_autor_ltsx {
+    margin-bottom: 10px;
+    line-height: 22px;
+}
+
+.autor_fuente_regular_ltsxd {
+    font-family: adelle-sans, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #707070;
+    padding-bottom: 6px;
+    display: table;
+    margin: auto;
+    font-size: 14px;
+    float: right;
+    margin-left: 5px;
+    margin-top: -8px;
+}
+
+.contenedor_video_ltsxd {
+    width: 100%;
+    display: table;
+    margin: auto;
+    position: relative;
+    background-image: url(https://www.eltiempo.com/infografias/2020/12/yo_mayor/img/tv.png?90);
+    background-size: 128%;
+    background-repeat: no-repeat;
+    background-position-x: -49px;
+}
+
+
+}
+
+
+@media(max-width: 365px){
+
+
+
+.boton_apntalla_completa {
+    top: 227px;
+}
+
+.contenedor_iconos_reproduccion_video {
+    width: 146px;
+    height: 38px;
+    position: absolute;
+    top: 168px;
+    left: 97px;
+    z-index: 80;
+    background-color: #3B2500;
+}
+
+
+.icono_de_reproduccion_video {
+    height: 28px;
+    margin-left: 23px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.video_televisor_ltsxd {
+    margin-left: 0;
+    width: 83%;
+    height: 211px;
+        margin-top: 25px;
+    border-radius: 12px;
+}
+
+.video_televisor_ltsxd2 {
+    margin-left: 0;
+    width: 83%;
+    height: 211px;
+        margin-top: 25px;
+    border-radius: 12px;
+}
+
+.contenedor_iconos_reproduccion {
+    width: 116px;
+    height: 47px;
+    position: absolute;
+    top: 97px;
+    left: 53px;
+}
+
+/*
+.esconder_mobile.menu_seccion_interna_ltsx {
+    width: 100%;
+    display: table;
+    margin-bottom: 61px;
+    margin-top: 0px;
+}
+*/
+
+.video_sin_padding_ltsx {
+    margin-left: 0;
+}
+.contenedor_subseccion_uno_ltsx {
+    float: left;
+    display: table;
+    margin-top: 0px;
+}
+
+.texto_apertura_ymyr {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    padding: 0px 50px;
+    box-sizing: border-box;
+    line-height: 24px;
+}
+
+.iconos_rerds_ltsx {
+    width: 15px;
+    margin-left: 29px;
+    cursor: pointer;
+}
+
+.margen_facebook_ltsx {
+    margin-left: 0px;
+}
+
+.contenedor_mobile_redes_ltsx {
+    width: 112px;
+    margin: 20px auto;
+    height: 40px;
+}
+
+.texto_seccion_ltxdf {
+    width: 100%;
+    padding: 0px 50px;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 40px auto 41px auto;
+}
+
+.texto_seccion_ltxdf {
+    width: 100%;
+    padding: 0px 50px;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0px auto 18px auto;
+}
+
+.lea_otras_historias_ltsx {
+    font-size: 28px;
+    color: #707070;
+    line-height: 28px;
+    margin-bottom: 7px;
+    padding-left: 52px;
+    text-align: left;
+}
+
+.seleccione_un_libro_ltsx {
+    font-size: 15px;
+    width: 86px;
+    text-align: left;
+    margin-left: 52px;
+    line-height: 18px;
+}
+
+.flecha_libros_ltsx {
+    margin-top: -20px;
+    width: 30px;
+    margin-left: 18px;
+    display: block;
+    margin-bottom: 14px;
+}
+
+.menu_libros_ltsxd {
+    width: 119px;
+}
+
+
+.menu_libros_ltsxd_internos {
+    width: 71px;
+    float: left;
+}
+
+.lea_otras_historias_ltsx_interno {
+    font-size: 20px;
+    line-height: 20px;
+    padding-top: 25px;
+    padding-left: 55px;
+}
+
+.texto_seccion3_ltsxd {
+    width: 100%;
+    font-size: 13px;
+    line-height: 21px;
+}
+
+.autor_texto_ltsxd {
+    font-size: 14px;
+
+    margin-bottom: 40px;
+}
+
+.boton_leer_mas_ltsx {
+    width: 44px;
+}
+
+.proxima_extrega_lstx {
+    font-family: adelle, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+    font-size: 15px;
+    padding-left: 4px;
+}
+
+.titulo_proxima_entrega_ltsx {
+    width: 171px;
+    font-size: 21px;
+    line-height: 25px;
+}
+
+.titulo_proxima_entrega_ltsx {
+    width: 154px;
+    font-size: 19px;
+    line-height: 23px;
+    padding-top: 6px;
+}
+
+.textos_prixima_entrega {
+    float: left;
+    width: 156px;
+}
+
+.nombre_proxima_entrega_ltsx {
+    width: 100%;
+    height: 72px;
+    background-color: #A06878;
+    margin-top: 14px;
+    border-radius: 5px;
+}
+
+.logo_de_colecion_ltsx {
+    width: 47px;
+    margin-top: -5px;
+    margin-right: 0;
+}
+
+.titulo_de_creatividad_ltsx {
+    font-size: 26px;
+    line-height: 24px;
+    width: 233px;
+}
+
+
+.parafo_de_creditos_ltsxd {
+    font-size: 15px;
+    line-height: 23px;
+}
+
+.detalle_creditos_autor_ltsx {
+    margin-bottom: 4px;
+    line-height: 22px;
+    font-size: 14px;
+}
+
+.logo_tiempo_listd {
+    width: 136px;
+    margin-top: -13px;
+}
+
+.modificar_alto_de_parrafo_lkt {
+    margin-top: -16px;
+    float: left;
+}
+
+.autor_fuente_regular_ltsxd {
+    font-family: adelle-sans, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #707070;
+    padding-bottom: 0px;
+    display: table;
+    margin: auto;
+    font-size: 14px;
+    float: right;
+    margin-left: 6px;
+    margin-top: -8px;
+}
+
+
+}
+
+
+@media (max-width: 340px){
+
+
+.boton_apntalla_completa {
+    top: 200px;
+}
+
+.icono_de_reproduccion_radio {
+    height: 23px;
+    margin-left: 9px;
+}
+
+.icono_de_reproduccion_video {
+    height: 24px;
+    margin-left: 23px;
+}
+
+.contenedor_iconos_reproduccion_video {
+    width: 128px;
+    height: 34px;
+    position: absolute;
+    top: 149px;
+    left: 86px;
+    z-index: 80;
+    background-color: #3B2500;
+}
+
+.contenedor_iconos_reproduccion {
+    width: 116px;
+    height: 47px;
+    position: absolute;
+    top: 87px;
+    left: 39px;
+}
+
+.video_televisor_ltsxd {
+margin-left: 0;
+    width: 83%;
+    height: 177px;
+    margin-top: 27px;
+    border-radius: 12px;
+}
+.contenedor_iconos_reproduccion_video {
+    width: 128px;
+    height: 31px;
+    position: absolute;
+    top: 149px;
+    left: 86px;
+    z-index: 80;
+    background-color: #3B2500;
+}
+
+.video_televisor_ltsxd2 {
+margin-left: 0;
+    width: 83%;
+    height: 177px;
+    margin-top: 27px;
+    border-radius: 12px;
+}
+
+.contenedor_header_ymyr {
+    width: 100%;
+    height: 598px;
+}
+
+
+.texto_apertura_ymyr {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    padding: 0px 41px;
+    box-sizing: border-box;
+    line-height: 23px;
+}
+
+
+.texto_seccion_ltxdf {
+    width: 100%;
+    padding: 0px 50px;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0px auto 19px auto;
+}
+
+.lea_otras_historias_ltsx_interno {
+    font-size: 20px;
+    line-height: 20px;
+    padding-top: 25px;
+    padding-left: 44px;
+}
+
+.menu_libros_ltsxd_internos {
+    width: 63px;
+    float: left;
+}
+
+.nombre_proxima_entrega_ltsx {
+    width: 100%;
+    height: 64px;
+}
+
+.titulo_proxima_entrega_ltsx {
+    width: 146px;
+    font-size: 18px;
+    line-height: 20px;
+    padding-top: 6px;
+}
+
+.logo_de_colecion_ltsx {
+    width: 42px;
+    margin-top: -5px;
+    margin-right: -3px;
+}
+
+.texto_ltsxdf {
+    font-family: adelle, serif;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+    font-size: 15px;
+    padding: 0px 40px 20px 40px;
+}
+
+.enlace_yo_mayor_ltsx {
+    font-size: 18px;
+}
+
+
+.titulo_creditos_lysx {
+    font-family: charcuterie-engraved, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 31px;
+}
+
+.boton_ancho_ltsxd {
+    width: 100%;
+    margin-bottom: 22px;
+}
+
+.logo_tiempo_listd {
+    width: 126px;
+    margin-top: -2px;
+}
+
+.base_contenedor_creditos_ltsx {
+    width: 100%;
+    margin: 50px auto 0px auto;
+    display: table;
+    padding: 0px 40px;
+    box-sizing: border-box;
+}
+
+.video_sin_padding_ltsx {
+    margin-left: 0;
+}
+
+.autor_fuente_regular_ltsxd {
+    font-size: 13px;
+}
+
+p.autor_texto_ltsxd.padding_autor_4 {
+    width: 281px;
+    font-size: 13px;
+}
+
+.modificar_alto_de_parrafo_lkt {
+    margin-top: -40px;
+    float: right;
+}
+
+.contenedor_video_ltsxd {
+    width: 100%;
+    display: table;
+    margin: auto;
+    position: relative;
+    background-image: url(https://www.eltiempo.com/infografias/2020/12/yo_mayor/img/tv.png?90);
+    background-size: 128%;
+    background-repeat: no-repeat;
+    background-position-x: -42px;
+}
+
+}
